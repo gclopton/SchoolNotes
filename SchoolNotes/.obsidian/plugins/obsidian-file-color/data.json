@@ -1,0 +1,45 @@
+{
+  "palette": [
+    {
+      "id": "jdxzEBRLOUWro1d_aKiTd",
+      "name": "White",
+      "value": "#ffffff"
+    },
+    {
+      "id": "T6wxAJ-RurQXL7qaOQ67b",
+      "name": "Blue",
+      "value": "#0ac2ff"
+    },
+    {
+      "id": "BTYv4IwgbhCTbVwtTzyhO",
+      "name": "Green",
+      "value": "#47ff0a"
+    },
+    {
+      "id": "HPAkyVehnVCmPVf0-ozlx",
+      "name": "Pink",
+      "value": "#ff0ac2"
+    },
+    {
+      "id": "7g88khBONC9vzoZX3K5X7",
+      "name": "Red",
+      "value": "#ff0a47"
+    },
+    {
+      "id": "IkWMCBXXi9KwboAN-9ynk",
+      "name": "lime",
+      "value": "#c2ff0a"
+    },
+    {
+      "id": "nQ9EKprG95YUPyNZFgBXf",
+      "name": "yellow",
+      "value": "#fbff00"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Seminar",
+      "color": "T6wxAJ-RurQXL7qaOQ67b"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "highlighterStyle": "none",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "Grey": "#CACFD9A6",
+    "blue": "#0AC2FF",
+    "green": "#47FF0A",
+    "pink": "#FF0AC2",
+    "red": "#FF0A47",
+    "lime": "#C2FF0A",
+    "yellow": "#fbff00"
+  },
+  "highlighterOrder": [
+    "Grey",
+    "blue",
+    "green",
+    "pink",
+    "red",
+    "lime",
+    "yellow"
+  ]
+}
